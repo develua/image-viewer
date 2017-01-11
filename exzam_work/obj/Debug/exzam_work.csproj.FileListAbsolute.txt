@@ -1,0 +1,47 @@
+c:\users\admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\bin\Debug\exzam_work.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\bin\Debug\exzam_work.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\MainWindow.baml
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\LoadWindow.baml
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\LoadWindow.g.cs
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\App.g.cs
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\exzam_work_MarkupCompile.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\exzam_work.g.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\exzam_work.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\exzam_work.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\exzam_work.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\obj\Debug\exzam_work.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\exzam_work\exzam_work\bin\Debug\exzam_work.pdb
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\bin\Debug\exzam_work.exe.config
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.exe
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.pdb
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\bin\Debug\exzam_work.exe
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\bin\Debug\exzam_work.pdb
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.csprojResolveAssemblyReference.cache
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\MainWindow.baml
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\LoadWindow.baml
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\MainWindow.g.cs
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\LoadWindow.g.cs
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\App.g.cs
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work_MarkupCompile.cache
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.g.resources
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.Properties.Resources.resources
+D:\Документы\Учеба\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.csproj.GenerateResource.Cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\bin\Debug\exzam_work.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\bin\Debug\exzam_work.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\bin\Debug\exzam_work.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\MainWindow.baml
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\LoadWindow.baml
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\MainWindow.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\LoadWindow.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\App.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work_MarkupCompile.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.g.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.Properties.Resources.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.csproj.GenerateResource.Cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\exzam_work\exzam_work\obj\Debug\exzam_work.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\image-viewer\exzam_work\bin\Debug\exzam_work.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\image-viewer\exzam_work\obj\Debug\exzam_work.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WPF\image-viewer\exzam_work\obj\Debug\exzam_work.pdb
